@@ -1,14 +1,14 @@
 Maratona Discover
 dev.finance$
 
-📋 Sobre o Projeto
+📋 <strong>Sobre o Projeto</strong> <br>
 Aplicação para receber entradas e saídas e realizar um balanço financeiro com base nos dados
 inseridos pelo usuário.
  
 
-💻 Tecnologias utilizadas
+💻 <strong>Tecnologias utilizadas</strong> <br>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
+HTML<br>
+CSS<br>
+JavaScript<br>
